@@ -2,6 +2,7 @@
     "name": "simplethings/zeta-webmail-bundle",
     "description": "A flexible Mail bundle for Symfony2 for sending and displaying purposes.",
     "require": {
+        "zetacomponents/base": "*",
         "zetacomponents/mail": "*"
     },
     "license": "MIT",

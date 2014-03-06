@@ -1,0 +1,20 @@
+{
+    "name": "simplethings/zeta-webmail-bundle",
+    "description": "A flexible Mail bundle for Symfony2 for sending and displaying purposes.",
+    "require": {
+        "zetacomponents/workflow": "1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Eberlei",
+            "email": "kontakt@beberlei.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "SimpleThings\\ZetaWebmailBundle\\": "" }
+    },
+    "target-dir": "SimpleThings/ZetaWebmailBundle",
+    "minimum-stability": "dev"
+}
+
